@@ -26,7 +26,6 @@
   },
   "dependencies": {
     "chalk": "^1.0.0",
-    "level": "^0.18.0",
     "readdirp": "^0.3.3",
     "s3-sync": "^1.0.1"
   }
