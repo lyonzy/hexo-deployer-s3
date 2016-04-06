@@ -27,6 +27,6 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "readdirp": "^0.3.3",
-    "s3-sync": "^1.0.1"
+    "s3-sync": "git+https://github.com/lyonzy/s3-sync.git#patch-1"
   }
 }
